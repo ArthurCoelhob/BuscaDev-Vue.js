@@ -1,7 +1,7 @@
 {
-  "name": "teknisa",
+  "name": "busca-dev",
   "version": "1.0.0",
-  "description": "Treinamento teknisa",
+  "description": "busca-dev",
   "author": "Arthur Coelho<arthur.silva@teknisa.com>",
   "private": true,
   "scripts": {
