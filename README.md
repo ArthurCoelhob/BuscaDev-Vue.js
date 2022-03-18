@@ -1,6 +1,6 @@
-# busca-dev
+# teknisa
 
-> A Vue.js project
+> Treinamento teknisa
 
 ## Build Setup
 
